@@ -1,0 +1,26 @@
+.header {
+    margin-top: 200px;
+    background-color: rgb(127, 207, 30);
+    color: rgb(59, 54, 54);
+    font: italic bold 100px serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8rem;
+}
+
+.bnt{
+    text-align: center;
+}
+
+.button{
+    margin-top: 360px;
+    color: rgb(157, 236, 244);
+    font-size: 3rem;
+    background-color: white;
+    width: 60%;
+    height: 60%;
+    text-align: center;
+    border-radius: 8rem;
+    border: none;
+}

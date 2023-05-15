@@ -1,0 +1,71 @@
+.header {
+    margin-top: 200px;
+    background-color: rgb(127, 207, 30);
+    color: rgb(59, 54, 54);
+    font: italic bold 100px serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8rem;
+}
+
+.imagebox {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intoducebox {
+    margin-top: 50px;
+    display: flex;
+    font: italic lighter 40px Georgia;
+    flex-direction: column;
+    align-items: center;
+}
+
+.videobox {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bnt{
+    text-align: center;
+}
+
+.title{
+    position: relative;
+    font: italic lighter 50px Georgia;
+    padding: 10px;
+}
+
+nav{
+    height: 100px;
+    background-color: rgb(22, 177, 69);
+    color:black;
+    width: 100%;
+    line-height: 56px;
+}
+.nav_bar{
+    text-align: center;
+    height: 7%;
+
+}
+.back{
+    float: left;
+    margin: 5px 0px;
+    width: 4%;
+}
+.button{
+    margin-top: 100px;
+    color: rgb(157, 236, 244);
+    font-size: 3rem;
+    background-color: white;
+    width: 60%;
+    height: 60%;
+    text-align: center;
+    border-radius: 8rem;
+    border: none;
+}
